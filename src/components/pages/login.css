@@ -1,0 +1,16 @@
+#login {
+  width: 500px;
+  background-color: whitesmoke;
+}
+
+#login .btn {
+  padding: 1rem;
+  background-color: #007bff;
+}
+
+@media only screen and (max-width: 670px) {
+  #login {
+    width: 100%;
+  }
+}
+/*# sourceMappingURL=login.css.map */

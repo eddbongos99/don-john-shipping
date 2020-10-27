@@ -1,0 +1,11 @@
+html,
+body {
+  font-family: 'Karla', sans-serif;
+  font-family: 'Playfair Display', serif;
+}
+
+* {
+  font-family: 'Playfair Display', serif;
+  font-family: 'Karla', sans-serif;
+  line-height: 25px;
+}

@@ -1,0 +1,19 @@
+#ship_hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), blue;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60vh;
+}
+
+#ship .btn {
+  padding: .5rem 25px;
+  background-color: #007bff;
+}
+
+#ship h3::after {
+  content: "";
+  display: block;
+  background-color: #007bff;
+  width: 20px;
+  height: 5px;
+}

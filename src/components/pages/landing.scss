@@ -1,0 +1,17 @@
+@import '../../_variables.scss';
+
+#landing {
+    .btn {
+        padding: 1rem !important;
+        background-color: $themeColor;
+        color: white;
+    }
+
+    h2::after {
+        content: "";
+        display: block;
+        background-color: $themeColor;
+        width: 25px;
+        height: 5px;
+    }
+}

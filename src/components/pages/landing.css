@@ -1,0 +1,14 @@
+#landing .btn {
+  padding: 1rem !important;
+  background-color: #007bff;
+  color: white;
+}
+
+#landing h2::after {
+  content: "";
+  display: block;
+  background-color: #007bff;
+  width: 25px;
+  height: 5px;
+}
+/*# sourceMappingURL=landing.css.map */

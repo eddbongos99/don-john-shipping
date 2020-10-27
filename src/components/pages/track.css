@@ -1,0 +1,11 @@
+#track_hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), blue;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60vh;
+}
+
+#track .btn {
+  background-color: #007bff;
+  padding: .5rem 25px;
+}
