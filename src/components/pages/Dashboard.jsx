@@ -17,7 +17,7 @@ function Dashboard() {
     const setData = async () => {
         let result = new Promise((resolve, reject) => {
             resolve(
-                firestore.collection('users').doc('NOMTmwdtnnPTFDtDuGCm').set({
+                firestore.collection('users').doc('bYnYHnyv8Lmf4HGLRZJF').set({
                     sender,
                     reciever,
                     location,

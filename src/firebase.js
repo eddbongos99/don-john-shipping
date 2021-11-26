@@ -4,14 +4,13 @@ import 'firebase/firestore';
 
 // Initialize Cloud Firestore through Firebase
 firebase.initializeApp({
-  apiKey: 'AIzaSyALtISPxt5Y9NUH1f9ejyyCRTh0u8YUK-Q',
-  authDomain: 'shipping-169e3.firebaseapp.com',
-  databaseURL: 'https://shipping-169e3.firebaseio.com',
-  projectId: 'shipping-169e3',
-  storageBucket: 'shipping-169e3.appspot.com',
-  messagingSenderId: '1011621550286',
-  appId: '1:1011621550286:web:418339737cc5ec845d989f',
-  measurementId: 'G-6K838NCTGX',
+  apiKey: "AIzaSyDKFoBfnycKfHtDPlLXPIPvXamF6EYFmUM",
+  authDomain: "don-john-shipping.firebaseapp.com",
+  projectId: "don-john-shipping",
+  storageBucket: "don-john-shipping.appspot.com",
+  messagingSenderId: "940961436950",
+  appId: "1:940961436950:web:2a7fd4d10142270af2ec37",
+  measurementId: "G-EC7T1VQN0B"
 });
 
 export const auth = firebase.auth();
