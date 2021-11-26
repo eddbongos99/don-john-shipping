@@ -84,7 +84,7 @@ function Landing() {
             <div className="card h-100">
               <img className="card-img-top" src={img_1} alt="" loading="lazy" height="auto" />
               <div className="card-body">
-                <h4 className="card-title">Get a quote</h4>
+                <h4 className="card-title">Request a quote</h4>
                 <p className="card-text">Need a quick quote to see rates and delivery options before you ship? Don John Shipping makes that
 									easy to do! Then you can quickly create your shipping label and schedule a courier pickup.
 
